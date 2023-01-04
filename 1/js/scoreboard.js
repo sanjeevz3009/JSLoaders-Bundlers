@@ -30,4 +30,4 @@ var Scoreboard = function() {
         addResult: addResult,
         updateScoreboard: updateScoreboard
     }
-};
+}();
